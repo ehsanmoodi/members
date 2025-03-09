@@ -3,12 +3,12 @@
     {
       "name": "Alice Johnson",
       "role": "Team Lead",
-      "image": "https://i.pravatar.cc/300?img=1"
+      "image": "https://i.pravatar.cc/200?img=1"
     },
     {
       "name": "Bob Smith",
       "role": "Software Engineer",
-      "image": "https://i.pravatar.cc/300?img=2"
+      "image": "https://i.pravatar.cc/200?img=2"
     },
     {
       "name": "Catherine Lee",
@@ -17,12 +17,12 @@
     {
       "name": "Daniel Thompson",
       "role": "UX Designer",
-      "image": "https://i.pravatar.cc/300?img=3"
+      "image": "https://i.pravatar.cc/200?img=3"
     },
     {
       "name": "John Doe",
       "role": "Project Manager",
-      "image": "https://i.pravatar.cc/300?img=4"
+      "image": "https://i.pravatar.cc/200?img=4"
     }
   ]
 }
