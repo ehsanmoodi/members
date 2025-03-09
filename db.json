@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Alice Johnson",
+    "role": "Team Lead",
+    "image": "https://i.pravatar.cc/300?img=1"
+  },
+  {
+    "name": "Bob Smith",
+    "role": "Software Engineer",
+    "image": "https://i.pravatar.cc/300?img=2"
+  },
+  {
+    "name": "Catherine Lee",
+    "role": "Product Manager"
+  },
+  {
+    "name": "Daniel Thompson",
+    "role": "UX Designer",
+    "image": "https://i.pravatar.cc/300?img=3"
+  },
+  {
+    "name": "John Doe",
+    "role": "Project Manager",
+    "image": "https://i.pravatar.cc/300?img=4"
+  },
+  {
+    "name": "Jane Smith",
+    "role": "Developer",
+    "image": "https://i.pravatar.cc/300?img=5"
+  },
+  {
+    "name": "Michael Brown",
+    "role": "Designer"
+  },
+  {
+    "name": "Emily Davis",
+    "role": "QA Specialist"
+  }
+]
