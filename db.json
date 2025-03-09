@@ -1,4 +1,5 @@
-[
+{
+"members": [
   {
     "name": "Alice Johnson",
     "role": "Team Lead",
@@ -37,3 +38,4 @@
     "role": "QA Specialist"
   }
 ]
+}
