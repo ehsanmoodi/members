@@ -1,28 +1,3 @@
 {
-  "items": [
-    {
-      "name": "Alice Johnson",
-      "role": "Team Lead",
-      "image": "https://i.pravatar.cc/200?img=10"
-    },
-    {
-      "name": "Bob Smith",
-      "role": "Software Engineer",
-      "image": "https://i.pravatar.cc/200?img=20"
-    },
-    {
-      "name": "Catherine Lee",
-      "role": "Product Manager"
-    },
-    {
-      "name": "Daniel Thompson",
-      "role": "UX Designer",
-      "image": "https://i.pravatar.cc/200?img=30"
-    },
-    {
-      "name": "John Doe",
-      "role": "Project Manager",
-      "image": "https://i.pravatar.cc/200?img=40"
-    }
-  ]
+  "items": []
 }
